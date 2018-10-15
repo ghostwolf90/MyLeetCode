@@ -35,3 +35,4 @@ struct Q0804{
 }
 
 Q0804.getSolution()
+
