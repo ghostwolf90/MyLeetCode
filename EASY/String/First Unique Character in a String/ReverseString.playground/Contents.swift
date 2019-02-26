@@ -1,5 +1,5 @@
 //: Playground - noun: a place where people can play
-
+//给出一个字符串，找到其中第一个不重复的字母并返回它的序号。如果不存在，则返回-1
 import UIKit
 
 func firstUniqChar(_ s: String) -> Int {
@@ -24,6 +24,9 @@ func firstUniqChar(_ s: String) -> Int {
     }
     return -1
 }
+
+print(firstUniqChar("loveleetcode"))
+
 
 
 
